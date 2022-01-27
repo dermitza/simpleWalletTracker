@@ -1,0 +1,9 @@
+<map>
+  <entry>
+    <string>0x123a123a123a123a123a123a123a123a123a123a</string>
+    <com.dermitza.simpleWalletTracker.wallet.Wallet>
+      <walletHash>0x123a123a123a123a123a123a123a123a123a123a</walletHash>
+      <walletName>TESTWALLET</walletName>
+    </com.dermitza.simpleWalletTracker.wallet.Wallet>
+  </entry>
+</map>
